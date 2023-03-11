@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things software development, especially relating to telecoms and media
 - 🌱 I’m currently learning WebRTC
 - 💞️ I’m looking to collaborate on music projects
-- 📫 How to reach me https://www.linkedin.com
+- 📫 How to reach me https://www.linkedin.com/judelove
 
 <!---
 judelove/judelove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
